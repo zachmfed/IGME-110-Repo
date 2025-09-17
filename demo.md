@@ -2,7 +2,7 @@
 
 ## I. History 
 -  [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown) 
-- [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown)
+- [Wikipedia Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ## II. Uses 
  - Documentation for software projects on GitHub 
